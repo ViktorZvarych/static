@@ -1,5 +1,5 @@
-import reactLogo from '../../assets/react.png'
-import reactFacts from '../../assets/ReactFacts.png'
+import reactLogo from './react.png'
+import reactFacts from './ReactFacts.png'
 import styles from './navbar.module.css'
 
 export default function Navbar() {
