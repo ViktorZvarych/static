@@ -1,0 +1,33 @@
+/* MainContent */
+
+.main {
+  margin-left: 27px;
+  text-align: left;
+  background: url(./assets/react-bg.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: right;
+}
+
+.title {
+  color: #fff;
+  font-family: Inter;
+  font-size: 39.06px;
+  font-weight: 700;
+  letter-spacing: -1.953px;
+}
+
+.list > li {
+  list-style: none;
+  color: #fff;
+  font-family: Inter;
+}
+
+.list li::before {
+  display: inline-block;
+  content: "\2022";
+  width: 10px;
+  margin-right: 1rem;
+  color: #61DAFB;
+  font-size: 1.3rem;
+}

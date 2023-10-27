@@ -1,0 +1,31 @@
+/* Navbar */
+
+.nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 91px;
+  padding: 0 2rem;
+  background-color: #21222a;
+}
+
+.logo {
+  height: 28px;
+  margin-right: 1rem;
+}
+
+.facts {
+  height: 18px;
+  margin-right: auto;
+}
+
+.title {
+  width: 259px;
+  color: #deebf8;
+  text-align: right;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
