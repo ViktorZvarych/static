@@ -2,7 +2,7 @@
   "name": "static",
   "private": true,
   "version": "0.1.0",
-  "homepage": "https://viktorzvarych.github.io/static/",
+  "homepage": "https://viktorzvarych.github.io/static",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
