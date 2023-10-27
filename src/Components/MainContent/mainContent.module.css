@@ -3,7 +3,7 @@
 .main {
   margin-left: 27px;
   text-align: left;
-  background: url(./assets/react-bg.png);
+  background: url(../../assets/react-bg.png);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: right;
