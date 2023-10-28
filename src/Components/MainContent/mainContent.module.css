@@ -17,6 +17,11 @@
   letter-spacing: -1.953px;
 }
 
+.list {
+  padding-inline-start: 27px;
+  padding-right: 27px;
+}
+
 .list > li {
   list-style: none;
   color: #fff;
